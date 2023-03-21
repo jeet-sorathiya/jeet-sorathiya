@@ -10,7 +10,7 @@
 
 # 📈 My Leetcode Stats
 
-[![Leetcode Profile](https://leetcard.jacoblin.cool/jeetsorathiya?hide=ranking)](https://leetcode.com/jeetsorathiya/)
+[![Leetcode Profile](https://leetcard.jacoblin.cool/j_patel?hide=ranking)](https://leetcode.com/j_patel/)
 
 ### 👨🏻‍💻 Programing Languages :
 
