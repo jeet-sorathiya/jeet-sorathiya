@@ -19,8 +19,12 @@
 </p>
 
 # 📈 My Leetcode Stats
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeet-sorathiya&show_icons=true&locale=en&layout=compact" alt="jeet-sorathiya" /></p>
 
-[![Leetcode Profile](https://leetcard.jacoblin.cool/j_patel?hide=ranking)](https://leetcode.com/j_patel/)
+  [![Leetcode Profile](https://leetcard.jacoblin.cool/j_patel?hide=ranking)](https://leetcode.com/j_patel/)
+  
+</div>
 
 ### 👨🏻‍💻 Programing Languages :
 
