@@ -46,5 +46,3 @@
 </div>
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeet-sorathiya&label=Profile%20views&color=0e75b6&style=flat" alt="jeet-sorathiya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeet-sorathiya" alt="jeet-sorathiya" /></a> </p>
