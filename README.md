@@ -1,48 +1,57 @@
-<h1 align="center">Hi 👋, I'm Jeet Sorathiya</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+# Hi there, I'm Jeet Sorathiya 👋 🚀
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jeet-sorathiya](https://www.linkedin.com/in/jeet-sorathiya)
-- 👨‍💻 All of my projects are available at [https://jeet-sorathiya.github.io/Portfolio/](https://jeet-sorathiya.github.io/Portfolio/)
-- 💬 Ask me about **ASP.Net Core, Javascript, Jquery**
--  📫 How to reach me **jeetsorathiya304@gmail.com**
-- ⚡ Fun fact **If you ever spot what seems like a "bug" in my code, don't fret! It's just one of those "work-in-progress features" in disguise, or perhaps, it's the next big thing the world isn't ready for yet! 😄💻 #CodeWithPersonality 🛠️🚀**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jeet_sorathiya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeet_sorathiya_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jeet-sorathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeet-sorathiya" height="30" width="40" /></a>
-<a href="https://instagram.com/jeet_sorathiya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeet_sorathiya_" height="30" width="40" /></a>
-<!--<a href="https://www.codechef.com/users/jeet_patel_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jeet_patel_01" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/jeetsorathiya304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jeetsorathiya304" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/j_patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="j_patel" height="30" width="40" /></a> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:20a7d8&height=200&section=header&text=Jeet%20Sorathiya&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
-<!--# 📈 My Leetcode Stats
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeet-sorathiya&show_icons=true&locale=en&layout=compact" alt="jeet-sorathiya" /></p>
+### 👨‍💻 Full-Stack Developer | ASP.NET & React Enthusiast
+### 🏗️ Focus: Building Scalable Systems 
 
-  [![Leetcode Profile](https://leetcard.jacoblin.cool/j_patel?hide=ranking)](https://leetcode.com/j_patel/)
-  
-</div> -->
+I am a results-driven developer from India dedicated to crafting high-performance applications and **building scalable systems** that solve real-world problems.
 
-<!--### 👨🏻‍💻 Programing Languages :
+---
 
-<div align="center">
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="50"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="50"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="50"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="50"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50"></code>
-</div>
+### 🛠️ Tech Stack & Skills
 
-### 🚀 Frameworks :
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Backend** | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
-<div align="center">
-<code><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="50"></code>
-<code><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="50"></code>
-</div>
--->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeet-sorathiya&label=Profile%20views&color=0e75b6&style=flat" alt="jeet-sorathiya" /> </p>
+---
+
+### 🚀 Building Scalable Systems
+My approach to development centers around **efficiency, modularity, and scalability**. Whether it's optimizing database queries in **PostgreSQL** or building responsive UIs in **React**, I focus on:
+* **Clean Code Architecture** using SOLID principles.
+* **Database Optimization** for high-traffic environments.
+* **Seamless Integration** between .NET backends and modern frontends.
+
+---
+
+### 🌟 Quick Links
+
+- 💼 **LinkedIn:** [Let's connect](https://www.linkedin.com/in/jeet-sorathiya)
+- ✉️ **Contact:** [jeetsorathiya304@gmail.com](mailto:jeetsorathiya304@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+
+> If you ever spot what seems like a **"bug"** in my code, don't fret! It's just one of those **"work-in-progress features"** in disguise, or perhaps, it's the next big thing the world isn't ready for yet! 😄💻 
+> <br> **#CodeWithPersonality** 🛠️🚀
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://twitter.com/jeet_sorathiya_" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/jeet-sorathiya" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/jeet_sorathiya_" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeet-sorathiya&label=Profile%20views&color=0e75b6&style=flat-square" alt="jeet-sorathiya" />
+</p>
